@@ -1,0 +1,4 @@
+-- 15 mins
+-- Question 1: What's RDB & NoSQL ? What's the difference of them?
+-- Question 2: What's the CAP Theorem ? (NoSQL)
+-- Question 3: What's the ACID Theorem ? (RDB)
